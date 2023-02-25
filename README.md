@@ -1,5 +1,5 @@
 # login-into-website
-This script allows you to log in into website using python
+# This script allows you to log in into website using python
 
 In this script, we use the requests library to set up a persistent session and get the login page. We then use the BeautifulSoup library to extract the hidden form inputs from the page. This allows us to submit a complete login form, including any hidden fields that the server may require.
 
